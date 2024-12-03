@@ -3,7 +3,7 @@ window.addEventListener("load", function() {
     setTimeout(() => {
         document.getElementById("loading-screen").style.display = "none";
         document.getElementById("main-content").style.display = "block";
-    }, 3000); // Adjust delay as needed
+    }, 1000); // Adjust delay as needed
 });
 
 // Display Current Date and Time
